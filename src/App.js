@@ -53,6 +53,7 @@ class App extends Component {
         <Playlist />
         <Playlist />
         <Playlist />
+        <Playlist />
       </div>
     );
   }
